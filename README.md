@@ -5,6 +5,7 @@ Socket Port Scan – check if a port is open.
 Scapy Ping Sweep – find live hosts with ICMP.
 Nmap Scan – show open ports, services, and versions.
 
+
 ⚠️ Use only on networks you own or have permission to test.
 
 Requirements

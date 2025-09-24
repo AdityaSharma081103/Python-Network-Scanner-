@@ -1,4 +1,4 @@
-Python Network Scanner
+#Python Network Scanner
 
 A simple Python tool to learn network scanning. It has 3 options:
 Socket Port Scan – check if a port is open.

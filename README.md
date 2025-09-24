@@ -28,6 +28,7 @@ Follow the menu to choose:
 3: Port scan with nmap
 0: Exit
 
-Example: Enter Your choice (0-3) : 2 
-         Enter Target IP --> 192.168.1.0/24
-         Host 192.168.1.1 is UP
+Example: 
+Enter Your choice (0-3) : 2 
+Enter Target IP --> 192.168.1.0/24
+Host 192.168.1.1 is UP

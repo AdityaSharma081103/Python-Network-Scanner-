@@ -14,10 +14,13 @@ scapy
 python-nmap
 nmap installed on system
 
-Install: pip install scapy python-nmap
+Install: 
+pip install scapy python-nmap
 
 Usage
-Run: python3 scanner.py
+
+Run: 
+python3 scanner.py
 
 Follow the menu to choose:
 1: Port scan with socket

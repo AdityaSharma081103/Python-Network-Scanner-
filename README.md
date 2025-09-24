@@ -9,18 +9,18 @@ Nmap Scan – show open ports, services, and versions.
 ⚠️ Use only on networks you own or have permission to test.
 
 ## Requirements  
-Python 3.8+
-scapy
-python-nmap
-nmap installed on system
+- Python 3.8+
+- scapy
+- python-nmap
+- nmap installed on system
 
 ## Install:  
-pip install scapy python-nmap
+- pip install scapy python-nmap
 
 ## Usage
 
 ### Run:  
-python3 scanner.py
+- python3 scanner.py
 
 Follow the menu to choose:
 1: Port scan with socket

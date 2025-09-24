@@ -30,5 +30,5 @@ Follow the menu to choose:
 
 Example: 
 Enter Your choice (0-3) : 2 
-Enter Target IP --> 192.168.1.0/24
+Enter Target IP : 192.168.1.0/24
 Host 192.168.1.1 is UP
